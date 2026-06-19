@@ -1,0 +1,12 @@
+Data loss prevention (DLP) software is a set of tools that detects and blocks
+the unauthorized movement of sensitive data, such as customer records, financial
+information, or intellectual property, across endpoints, networks, and cloud apps.
+
+DLP works by classifying data, monitoring how it moves, and enforcing policies
+that allow, log, or block an action. For example, a policy might stop an employee
+from emailing a spreadsheet of credit-card numbers outside the company.
+
+Organizations adopt DLP to meet compliance requirements like GDPR and HIPAA, to
+reduce the risk of insider threats, and to gain visibility into where regulated
+data actually lives. Modern DLP increasingly integrates with cloud access security
+brokers and data-security posture management tools.

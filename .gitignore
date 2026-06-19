@@ -1,0 +1,25 @@
+# Secrets & credentials — never commit these
+.env
+credentials*.json
+client_secret*.json
+token*.json
+service_account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Outputs
+output/
+*.csv
+!gsc_export.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log

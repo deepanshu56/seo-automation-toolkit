@@ -1,0 +1,5 @@
+# One URL per line. Lines starting with # are ignored.
+# Replace these with the pages you want to audit.
+https://example.com/
+https://www.python.org/
+https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
